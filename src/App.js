@@ -3,7 +3,6 @@ import './App.css';
 import MyNavBar from "./components/MyNavBar.js";
 
 
-
 class App extends Component {
   render() {
     return (
